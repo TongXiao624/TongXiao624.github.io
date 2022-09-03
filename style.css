@@ -9,6 +9,7 @@ a:link{
 a:visited{
     text-decoration:none;
     color:black;
+    font-weight: bold;
 }
 a:hover{
     text-decoration:none;
